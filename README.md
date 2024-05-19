@@ -11,12 +11,12 @@ The dataset used in this project is the TMDB 5000 Movies Dataset, which includes
 Retrieved from Kaggle: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Technologies Used
-Python
-Pandas
-NumPy
-NLTK (Natural Language Toolkit)
-Scikit-learn
-Matplotlib
+Python,
+Pandas,
+NumPy,
+NLTK (Natural Language Toolkit),
+Scikit-learn,
+Matplotlib,
 Seaborn
 
 ## Project Sructure
